@@ -10,9 +10,12 @@ similar to ssh copy
     establish a download folder on target (permissions needed?)
 4. send file
 */
+
+import javax.bluetooth.*;
+
 public class main{
   public static void main(String args[]){
-
+    System.out.println("Hello");
 
 
   }
