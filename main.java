@@ -10,8 +10,10 @@ similar to ssh copy
     establish a download folder on target (permissions needed?)
 4. send file
 */
-public static void main(String args[]){
+public class main{
+  public static void main(String args[]){
 
 
 
+  }
 }
